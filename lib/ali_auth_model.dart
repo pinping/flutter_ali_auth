@@ -734,7 +734,7 @@ AliAuthModel getConfig() {
     'logBtnHeight': 40,
     'logBtnMarginLeftAndRight': 33,
     'logBtnBackgroundPath':
-        'assets/login_btn_normal.png,assets/login_btn_unable.png,assets/login_btn_press.png',
+        'assets/ali_auth/login_btn_normal.png,assets/ali_auth/login_btn_unable.png,assets/ali_auth/login_btn_press.png',
     'logBtnOffsetY': 300,
     'loadingImgPath': '',
     'logBtnOffsetX': 0,
@@ -825,7 +825,7 @@ AliAuthModel getDislogConfig() {
     'logBtnHeight': 38,
     'logBtnMarginLeftAndRight': 15,
     'logBtnBackgroundPath':
-        'assets/login_btn_normal.png,assets/login_btn_unable.png,assets/login_btn_press.png',
+        'assets/ali_auth/login_btn_normal.png,assets/ali_auth/login_btn_unable.png,assets/ali_auth/login_btn_press.png',
     'logBtnOffsetY': logBtnOffset,
     'loadingImgPath': '',
     'appPrivacyOne': '思预云用户协议, https://www.baidu.com',
